@@ -1,3 +1,4 @@
 Hello odin!
 i just did it 
 Hello odin, I did it
+git config --global core.editor "code --wait"
